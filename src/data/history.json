@@ -1,0 +1,34 @@
+[
+    {
+      "role": "IT Associate",
+      "organisation": "California State University: Fullerton",
+      "startDate": "November, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Helped with software related issues", 
+        "Worked on large-scale Python projects"],
+      "imageSrc": "history/csuf.png"
+    },
+    {
+      "role": "Peer Advisor",
+      "organisation": "Project Raise",
+      "startDate": "November, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Assisted numerous students in with peer advising", 
+        "Went to many community colleges to promote the university"],
+      "imageSrc": "history/projectraise.png"
+    },
+    {
+      "role": "ACM Board",
+      "organisation": "Association for Computing Machinery ",
+      "startDate": "October 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Hosted various workshops for students",
+        "Participed in Internation Collegiate Programming Competition"
+      ],
+      "imageSrc": "history/acm.png"
+    }
+  ]
+  

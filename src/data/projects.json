@@ -1,0 +1,26 @@
+[
+    {
+      "title": "VitaMatch",
+      "imageSrc": "projects/vitamatch.png",
+      "description": "Web application that features a vitamin recommendation system and vitamin database",
+      "skills": ["JavaScript", "Node", "MySQL"],
+      "demo": "https://www.youtube.com/watch?v=NNkBk2JUEHA",
+      "source": "https://github.com/JeremiahHerring/VitaminApp"
+    },
+    {
+      "title": "FullyHacks 2023-2024",
+      "imageSrc": "projects/fullyhacks.png",
+      "description": "Open source project for FullyHacks 2023",
+      "skills": ["Next.js", "MongoDB", "Prisma", "TailwindCSS"],
+      "demo": "https://youtu.be/ycaYq0TEwWo",
+      "source": "https://github.com/acmcsufoss/fullyhacks"
+    },
+    {
+      "title": "Quickread AI",
+      "imageSrc": "projects/quickreadai.png",
+      "description": "Web application that summarizes web content using OpenAI",
+      "skills": ["React", "TailwindCSS", "RapidAPI"],
+      "demo": "https://youtu.be/uv4Ed0F8LlY",
+      "source": "https://github.com/JeremiahHerring/QuickRead-AI"
+    }
+  ]
