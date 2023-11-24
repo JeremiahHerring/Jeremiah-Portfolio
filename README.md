@@ -1,4 +1,3 @@
-Jeremiah Herring's Portfolio
 Welcome to my portfolio! This project was created using React and showcases my skills, projects, and experiences.
 
 Getting Started
