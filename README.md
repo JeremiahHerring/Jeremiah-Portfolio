@@ -1,8 +1,21 @@
-# React + Vite
+Jeremiah Herring's Portfolio
+Welcome to my portfolio! This project was created using React and showcases my skills, projects, and experiences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Getting Started
+To view my portfolio, simply visit https://jeremiahherring.netlify.app/.
 
-Currently, two official plugins are available:
+Note:
+I plan to get a custom domain soon; for now, the portfolio is hosted on Netlify. The current link is a temporary one.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Responsive Design: The portfolio is designed to work seamlessly on various devices.
+Project Showcase: Explore the projects I have worked on, each with its own details and live demos.
+Skills & Technologies: Learn about the technologies and skills I possess.
+Contact: Feel free to reach out to me via the provided contact information.
+Future Plans
+I am actively working on securing a custom domain for my portfolio to enhance its professional appearance. Stay tuned for updates!
+
+Feedback
+I welcome any feedback or suggestions you may have. If you find any issues or have ideas for improvement, please don't hesitate to open an issue.
+
+Thank you for visiting my portfolio!
