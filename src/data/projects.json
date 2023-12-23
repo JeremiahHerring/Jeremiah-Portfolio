@@ -22,5 +22,13 @@
       "skills": ["React", "TailwindCSS", "RapidAPI"],
       "demo": "https://youtu.be/uv4Ed0F8LlY",
       "source": "https://github.com/JeremiahHerring/QuickRead-AI"
+    },
+    {
+      "title": "Event Manager",
+      "imageSrc": "projects/aem.png",
+      "description": "Academic Event Management System",
+      "skills": ["PHP", "MySQL", "HTML/CSS"],
+      "demo": "https://youtu.be/cHLKna36xsk",
+      "source": "https://github.com/JeremiahHerring/Academic-Event-Management"
     }
   ]
