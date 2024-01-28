@@ -20,13 +20,13 @@
       "imageSrc": "history/projectraise.png"
     },
     {
-      "role": "ACM Board",
+      "role": "Algo Board",
       "organisation": "Association for Computing Machinery ",
-      "startDate": "October 2023",
+      "startDate": "January 2024",
       "endDate": "Present",
       "experiences": [
         "Hosted various workshops for students",
-        "Participed in Internation Collegiate Programming Competition"
+        "Participed in International Collegiate Programming Competition"
       ],
       "imageSrc": "history/acm.png"
     }

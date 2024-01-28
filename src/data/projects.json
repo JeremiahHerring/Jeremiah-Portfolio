@@ -2,17 +2,17 @@
     {
       "title": "VitaMatch",
       "imageSrc": "projects/vitamatch.png",
-      "description": "Web application that features a vitamin recommendation system and vitamin database",
+      "description": "Web app with Vitamin Recommendation System and Database",
       "skills": ["JavaScript", "Node", "MySQL"],
       "demo": "https://www.youtube.com/watch?v=NNkBk2JUEHA",
       "source": "https://github.com/JeremiahHerring/VitaminApp"
     },
     {
-      "title": "FullyHacks 2023-2024",
+      "title": "FullyHacks 2024",
       "imageSrc": "projects/fullyhacks.png",
       "description": "Open source project for FullyHacks 2023",
       "skills": ["Next.js", "MongoDB", "Prisma", "TailwindCSS"],
-      "demo": "https://youtu.be/ycaYq0TEwWo",
+      "demo": "https://youtu.be/d44qZTUe1KI",
       "source": "https://github.com/acmcsufoss/fullyhacks"
     },
     {
