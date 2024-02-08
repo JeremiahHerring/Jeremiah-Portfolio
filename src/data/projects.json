@@ -10,7 +10,7 @@
     {
       "title": "FullyHacks 2024",
       "imageSrc": "projects/fullyhacks.png",
-      "description": "Open source project for FullyHacks 2023",
+      "description": "Website for FullyHacks 2024",
       "skills": ["Next.js", "MongoDB", "Prisma", "TailwindCSS"],
       "demo": "https://youtu.be/d44qZTUe1KI",
       "source": "https://github.com/acmcsufoss/fullyhacks"
