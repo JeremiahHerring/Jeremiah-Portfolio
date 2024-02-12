@@ -30,5 +30,13 @@
       "skills": ["PHP", "MySQL", "HTML/CSS"],
       "demo": "https://youtu.be/cHLKna36xsk",
       "source": "https://github.com/JeremiahHerring/Academic-Event-Management"
+    },
+    {
+      "title": "Anime Database",
+      "imageSrc": "projects/anime-database.png",
+      "description": "Made with JikanAPI, Find details about any anime",
+      "skills": ["React", "JavaScript", "CSS", "API"],
+      "demo": "https://youtu.be/FIoN4vND6js",
+      "source": "https://github.com/JeremiahHerring/Anime-API"
     }
   ]
