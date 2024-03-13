@@ -38,5 +38,13 @@
       "skills": ["React", "JavaScript", "CSS", "API"],
       "demo": "https://youtu.be/FIoN4vND6js",
       "source": "https://github.com/JeremiahHerring/Anime-API"
-    }
+    },
+    {
+    "title": "Code Compiler",
+    "imageSrc": "projects/code-compiler.png",
+    "description": "Compile source code for specific language",
+    "skills": ["Python", "Flask"],
+    "demo": "https://github.com/JeremiahHerring/compiler-web-app",
+    "source": "https://github.com/JeremiahHerring/compiler-web-app"
+  }
   ]

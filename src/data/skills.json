@@ -20,6 +20,14 @@
       "imageSrc": "skills/node.png"
     },
     {
+      "title": "Express",
+      "imageSrc" : "skills/express.png"
+    },
+    {
+      "title": "Flask",
+      "imageSrc" : "skills/flask.png"
+    },
+    {
       "title": "Python",
       "imageSrc": "skills/python.png"
     },
