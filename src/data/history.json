@@ -1,12 +1,12 @@
 [
     {
-      "role": "IT Associate",
+      "role": "IT Intern",
       "organisation": "California State University: Fullerton",
       "startDate": "November, 2023",
       "endDate": "Present",
       "experiences": [
         "Helped with software related issues", 
-        "Worked on IT-related projects"],
+        "Managed large health department database"],
       "imageSrc": "history/csuf.png"
     },
     {
@@ -16,7 +16,7 @@
       "endDate": "Present",
       "experiences": [
         "Assisted numerous students in with peer advising", 
-        "Went to many community colleges to promote the university"],
+        "Provided STEM transfer students with resources and advice"],
       "imageSrc": "history/projectraise.png"
     },
     {
@@ -25,7 +25,7 @@
       "startDate": "January 2024",
       "endDate": "Present",
       "experiences": [
-        "Hosted various workshops for students",
+        "Hosted workshops teaching students DSA",
         "Participed in International Collegiate Programming Competition"
       ],
       "imageSrc": "history/acm.png"
