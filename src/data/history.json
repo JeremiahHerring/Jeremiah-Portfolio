@@ -1,34 +1,35 @@
 [
-    {
-      "role": "IT Intern",
-      "organisation": "California State University: Fullerton",
-      "startDate": "November, 2023",
-      "endDate": "Present",
-      "experiences": [
-        "Helped with software related issues", 
-        "Managed large health department database"],
-      "imageSrc": "history/csuf.png"
-    },
-    {
-      "role": "Peer Advisor",
-      "organisation": "Project Raise",
-      "startDate": "November, 2023",
-      "endDate": "Present",
-      "experiences": [
-        "Assisted numerous students in with peer advising", 
-        "Provided STEM transfer students with resources and advice"],
-      "imageSrc": "history/projectraise.png"
-    },
-    {
-      "role": "Algo Board",
-      "organisation": "Association for Computing Machinery ",
-      "startDate": "January 2024",
-      "endDate": "Present",
-      "experiences": [
-        "Hosted workshops teaching students DSA",
-        "Participed in International Collegiate Programming Competition"
-      ],
-      "imageSrc": "history/acm.png"
-    }
-  ]
-  
+  {
+    "role": "Production Engineer Fellow",
+    "organisation": "Meta & Major League Hacking",
+    "startDate": "June 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Collaborated closely with 2 Meta Engineers and 12 fellows to build individual projects focusing on software engineering principles such as unit testing, scripting, containers, continuous integration, and troubleshooting.",
+      "Facilitated knowledge sharing by leading weekly code reviews and feedback sessions, improving code quality and team efficiency, and driving continuous improvement across the team."
+    ],
+    "imageSrc": "history/meta.png"
+  },
+  {
+    "role": "Software Engineering Intern",
+    "organisation": "Sandia National Laboratories",
+    "startDate": "May 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Refactored a tool that allowed for the addition of notes to a set of source code differences, enabling analysts to add commentary on specific changes without modifying either version of the code being compared.",
+      "Finetuned a large language model (LLM) that could scan and sort project reports based on relevance to sponsor interest and problem space, speeding up the manual review process by 80% and allowing for 500+ projects to be reviewed simultaneously."
+    ],
+    "imageSrc": "history/sandia.png"
+  },
+  {
+    "role": "Information Technology Specialist",
+    "organisation": "California State University: Fullerton",
+    "startDate": "September 2023",
+    "endDate": "May 2024",
+    "experiences": [
+      "Increased productivity by assisting a health center of over 100 employees with hardware and software-related issues.",
+      "Ensured seamless operation of 18 software applications crucial to the health center's operations."
+    ],
+    "imageSrc": "history/csuf.png"
+  }
+]
