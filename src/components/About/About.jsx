@@ -14,21 +14,21 @@ export const About = () => {
             <img src={getImageURL("about/cursorIcon.png")} alt="Cursor"></img>
             <div className={styles.aboutItemText}>
               <h3>Computer Science Undergraduate</h3>
-              <p>I'm a third year undergraduate student pursuing a Bachelor's Degree in Computer Science</p>
+              <p>I'm a fourth year undergraduate student pursuing a Bachelor's Degree in Computer Science</p>
             </div>
             </li>
           <li className={styles.aboutItem}>
             <img src={getImageURL("about/serverIcon.png")} alt="Cursor"></img>
           <div className={styles.aboutItemText}>
-            <h3>Frontend Developer</h3>
-            <p>I have lots of experience with front end projects and frameworks. Check out some of my work!</p>
+            <h3>Full-Stack Developer</h3>
+            <p>I have lots of experience with full stack projects. Check out some of my work!</p>
           </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageURL("about/uiIcon.png")} alt="UI Icon"></img>
           <div className={styles.aboutItemText}>
-            <h3>Backend Developer</h3>
-            <p>I have knowledge of many backend frameworks such as Node.js and Express.js, and I have experience developing fast and optimized APIs.</p>
+            <h3>Software Engineer</h3>
+            <p>I've interned at companies such as Sandia National Laboratories and Meta.</p>
           </div>
           </li>
           </ul>

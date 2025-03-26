@@ -40,11 +40,11 @@
       "source": "https://github.com/JeremiahHerring/Anime-API"
     },
     {
-    "title": "Code Compiler",
-    "imageSrc": "projects/code-compiler.png",
-    "description": "Compile source code for specific language",
-    "skills": ["Python", "Flask"],
+    "title": "FullyHacks 2025",
+    "imageSrc": "projects/fullyhacks2.png",
+    "description": "Website for FullyHacks 2025",
+    "skills": ["Next.js", "MongoDB", "Prisma", "TailwindCSS"],
     "demo": "https://github.com/JeremiahHerring/compiler-web-app",
-    "source": "https://github.com/JeremiahHerring/compiler-web-app"
+    "source": "https://github.com/acmcsufoss/fullyhacks"
   }
   ]
